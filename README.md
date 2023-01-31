@@ -16,10 +16,10 @@ Substitute the values in the distance formula
 Print distance 
 ### PROGRAM:
 
-```
-#Program to find the distance between two points.
-#Developed by: Sam Israel D
-#RegisterNumber: 22008392
+```python
+# Program to find the distance between two points.
+# Developed by: Sam Israel D
+# RegisterNumber: 22008392
 
 import numpy as np
 import math
